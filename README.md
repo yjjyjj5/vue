@@ -1,4 +1,10 @@
-# vue4
+cmd命令直接npm install
+
+启动命令npm run serve
+
+
+
+# vue
 
 ## Project setup
 ```
